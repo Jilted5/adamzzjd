@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adamzzjd
+- 👋 Hi
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on scms
